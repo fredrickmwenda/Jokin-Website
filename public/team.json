@@ -1,0 +1,47 @@
+[
+    {
+      "name": "Mishel Marsh",
+      "designation": "Engineer",
+      "image": "assets/img/team/team_1_1.jpg",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://instagram.com/",
+        "linkedin": "https://linkedin.com/"
+      }
+    },
+    {
+      "name": "Michel Richard",
+      "designation": "Site Manager",
+      "image": "assets/img/team/team_1_2.jpg",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://instagram.com/",
+        "linkedin": "https://linkedin.com/"
+      }
+    },
+    {
+      "name": "Famhida Ruko",
+      "designation": "Architecture",
+      "image": "assets/img/team/team_1_3.jpg",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://instagram.com/",
+        "linkedin": "https://linkedin.com/"
+      }
+    },
+    {
+      "name": "Alex Anfantino",
+      "designation": "Founder",
+      "image": "assets/img/team/team_1_4.jpg",
+      "social": {
+        "facebook": "https://facebook.com/",
+        "twitter": "https://twitter.com/",
+        "instagram": "https://instagram.com/",
+        "linkedin": "https://linkedin.com/"
+      }
+    }
+  ]
+  
